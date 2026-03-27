@@ -228,7 +228,7 @@ export default function Home() {
             {`What's Your Coffee?`}
           </h1>
           <p className="text-gray-500 mb-8 leading-relaxed">
-            7 questions. One coffee. Find out which brew matches your personality.
+            Seven questions. One coffee. Find out which brew matches your personality.
           </p>
           <button
             onClick={handleStart}
